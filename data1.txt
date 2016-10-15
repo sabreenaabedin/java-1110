@@ -1,0 +1,7 @@
+// CS 2110 Sample File
+
+Title:  This is a sample file for CS 2110
+
+// This is a very small file
+
+Once upon a time there was a lab known as lab X16 (err.. Lab 1B) where all the rookies went and coded so hard they emmitted radiaton and their code came to life. The End.
